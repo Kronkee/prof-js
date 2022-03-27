@@ -5,6 +5,7 @@ const products = [
     {id: 4, title: 'Gamepad', price: 50},
 ];
 //Функция для формирования верстки каждого товара
+
 //Добавить в выводе изображение
 const renderProduct = x => {
     return `<div class="product-item">
