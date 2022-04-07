@@ -72,8 +72,8 @@ class CartItem {
                     <button class="delete-btn">x</button>
                 </div>
             </div>`
-    }
-}git checkout -b lesson-3
+    };
+}
 
 let cart = new CartList();
 console.log(list.allProducts);
